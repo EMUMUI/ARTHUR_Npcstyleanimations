@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CWeaponAnimationsSets>
+  <WeaponAnimationsSets>
+    <Item key="npctype_m_ped_two">
+      <Fallback>Default</Fallback>
+      <WeaponAnimations>
+        <Item key="WEAPON_PETROLCAN">
+          <CoverMovementClipSetHash />
+          <CoverMovementExtraClipSetHash />
+          <CoverAlternateMovementClipSetHash />
+          <CoverWeaponClipSetHash />
+          <MotionClipSetHash>move_ped_wpn_jerrycan_generic</MotionClipSetHash>
+          <WeaponClipSetHash>Wpn_PetrolCan</WeaponClipSetHash>
+          <SwapWeaponFilterHash>RightArm_NoSpine_filter</SwapWeaponFilterHash>
+          <AnimFireRateModifier value="1.000000" />
+          <AnimBlindFireRateModifier value="1.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="false" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="SWAP_DEFAULT" />
+        </Item>
+        <Item key="WEAPON_HAZARDCAN">
+          <CoverMovementClipSetHash />
+          <CoverMovementExtraClipSetHash />
+          <CoverAlternateMovementClipSetHash />
+          <CoverWeaponClipSetHash />
+          <MotionClipSetHash>move_ped_wpn_jerrycan_generic</MotionClipSetHash>
+          <WeaponClipSetHash>Wpn_PetrolCan</WeaponClipSetHash>
+          <SwapWeaponFilterHash>RightArm_NoSpine_filter</SwapWeaponFilterHash>
+          <AnimFireRateModifier value="1.000000" />
+          <AnimBlindFireRateModifier value="1.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="false" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="SWAP_DEFAULT" />
+        </Item>
+        <Item key="WEAPON_FIREEXTINGUISHER">
+          <CoverMovementClipSetHash />
+          <CoverMovementExtraClipSetHash />
+          <CoverAlternateMovementClipSetHash />
+          <CoverWeaponClipSetHash />
+          <MotionClipSetHash>move_ped_wpn_exting_generic</MotionClipSetHash>
+          <WeaponClipSetHash>weapons@misc@fire_ext</WeaponClipSetHash>
+          <SwapWeaponFilterHash>RightArm_NoSpine_filter</SwapWeaponFilterHash>
+          <AnimFireRateModifier value="1.000000" />
+          <AnimBlindFireRateModifier value="1.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="false" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="SWAP_DEFAULT" />
+        </Item>
+        <Item key="WEAPON_BALL">
+          <CoverWeaponClipSetHash>Cover_Wpn_Thrown_Grenade</CoverWeaponClipSetHash>
+          <MotionClipSetHash>Wpn_Grenade_WeaponHolding</MotionClipSetHash>
+          <MotionFilterHash>BothArms_filter</MotionFilterHash>
+          <WeaponClipSetHash>Wpn_Thrown_Grenade</WeaponClipSetHash>
+          <WeaponClipSetStreamedHash>Wpn_Thrown_Grenade_Str</WeaponClipSetStreamedHash>
+          <SwapWeaponFilterHash>RightArm_NoSpine_filter</SwapWeaponFilterHash>
+          <SwapWeaponInLowCoverFilterHash>RightArm_NoSpine_filter</SwapWeaponInLowCoverFilterHash>
+          <AnimFireRateModifier value="1.000000" />
+          <AnimBlindFireRateModifier value="1.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="false" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="SWAP_DEFAULT" />
+        </Item>
+        <Item key="WEAPON_BZGAS">
+          <CoverWeaponClipSetHash>Cover_Wpn_Thrown_Grenade</CoverWeaponClipSetHash>
+          <MotionClipSetHash>Wpn_Grenade_WeaponHolding</MotionClipSetHash>
+          <MotionFilterHash>BothArms_filter</MotionFilterHash>
+          <WeaponClipSetHash>Wpn_Thrown_Grenade</WeaponClipSetHash>
+          <WeaponClipSetStreamedHash>Wpn_Thrown_Grenade_Str</WeaponClipSetStreamedHash>
+          <SwapWeaponFilterHash>RightArm_NoSpine_filter</SwapWeaponFilterHash>
+          <SwapWeaponInLowCoverFilterHash>RightArm_NoSpine_filter</SwapWeaponInLowCoverFilterHash>
+          <AnimFireRateModifier value="1.000000" />
+          <AnimBlindFireRateModifier value="1.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="false" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="SWAP_DEFAULT" />
+        </Item>
+        <Item key="WEAPON_SMOKEGRENADE">
+          <CoverWeaponClipSetHash>Cover_Wpn_Thrown_Grenade</CoverWeaponClipSetHash>
+          <MotionClipSetHash>Wpn_Grenade_WeaponHolding</MotionClipSetHash>
+          <MotionFilterHash>BothArms_filter</MotionFilterHash>
+          <WeaponClipSetHash>Wpn_Thrown_Grenade</WeaponClipSetHash>
+          <WeaponClipSetStreamedHash>Wpn_Thrown_Grenade_Str</WeaponClipSetStreamedHash>
+          <SwapWeaponFilterHash>RightArm_NoSpine_filter</SwapWeaponFilterHash>
+          <SwapWeaponInLowCoverFilterHash>RightArm_NoSpine_filter</SwapWeaponInLowCoverFilterHash>
+          <AnimFireRateModifier value="1.000000" />
+          <AnimBlindFireRateModifier value="1.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="false" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="SWAP_DEFAULT" />
+        </Item>
+        <Item key="WEAPON_MOLOTOV">
+          <CoverWeaponClipSetHash>Cover_Wpn_Thrown_Grenade</CoverWeaponClipSetHash>
+          <MotionClipSetHash>Wpn_Grenade_WeaponHolding</MotionClipSetHash>
+          <MotionFilterHash>BothArms_filter</MotionFilterHash>
+          <WeaponClipSetHash>Wpn_Thrown_Grenade</WeaponClipSetHash>
+          <WeaponClipSetStreamedHash>Wpn_Thrown_Grenade_Str</WeaponClipSetStreamedHash>
+          <SwapWeaponFilterHash>RightArm_NoSpine_filter</SwapWeaponFilterHash>
+          <SwapWeaponInLowCoverFilterHash>RightArm_NoSpine_filter</SwapWeaponInLowCoverFilterHash>
+          <AnimFireRateModifier value="1.000000" />
+          <AnimBlindFireRateModifier value="1.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="false" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="SWAP_DEFAULT" />
+        </Item>
+        <Item key="WEAPON_STICKYBOMB">
+          <CoverWeaponClipSetHash>Cover_Wpn_Thrown_Grenade</CoverWeaponClipSetHash>
+          <MotionClipSetHash>Wpn_Grenade_WeaponHolding</MotionClipSetHash>
+          <MotionFilterHash>BothArms_filter</MotionFilterHash>
+          <WeaponClipSetHash>Wpn_Thrown_Grenade</WeaponClipSetHash>
+          <WeaponClipSetStreamedHash>Wpn_Thrown_Grenade_Str</WeaponClipSetStreamedHash>
+          <SwapWeaponFilterHash>RightArm_NoSpine_filter</SwapWeaponFilterHash>
+          <SwapWeaponInLowCoverFilterHash>RightArm_NoSpine_filter</SwapWeaponInLowCoverFilterHash>
+          <AnimFireRateModifier value="1.000000" />
+          <AnimBlindFireRateModifier value="1.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="false" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="SWAP_DEFAULT" />
+        </Item>
+        <Item key="WEAPON_GRENADE">
+          <CoverWeaponClipSetHash>Cover_Wpn_Thrown_Grenade</CoverWeaponClipSetHash>
+          <MotionClipSetHash>Wpn_Grenade_WeaponHolding</MotionClipSetHash>
+          <MotionFilterHash>BothArms_filter</MotionFilterHash>
+          <WeaponClipSetHash>Wpn_Thrown_Grenade</WeaponClipSetHash>
+          <WeaponClipSetStreamedHash>Wpn_Thrown_Grenade_Str</WeaponClipSetStreamedHash>
+          <SwapWeaponFilterHash>RightArm_NoSpine_filter</SwapWeaponFilterHash>
+          <SwapWeaponInLowCoverFilterHash>RightArm_NoSpine_filter</SwapWeaponInLowCoverFilterHash>
+          <AnimFireRateModifier value="1.000000" />
+          <AnimBlindFireRateModifier value="1.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="false" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="SWAP_DEFAULT" />
+        </Item>
+        <Item key="WEAPON_FLARE">
+          <CoverWeaponClipSetHash>Cover_Wpn_Thrown_Grenade</CoverWeaponClipSetHash>
+          <MotionClipSetHash>Wpn_Grenade_WeaponHolding</MotionClipSetHash>
+          <MotionFilterHash>BothArms_filter</MotionFilterHash>
+          <WeaponClipSetHash>Wpn_Thrown_Grenade</WeaponClipSetHash>
+          <WeaponClipSetStreamedHash>Wpn_Thrown_Grenade_Str</WeaponClipSetStreamedHash>
+          <SwapWeaponFilterHash>RightArm_NoSpine_filter</SwapWeaponFilterHash>
+          <SwapWeaponInLowCoverFilterHash>RightArm_NoSpine_filter</SwapWeaponInLowCoverFilterHash>
+          <AnimFireRateModifier value="1.000000" />
+          <AnimBlindFireRateModifier value="1.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="false" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="SWAP_DEFAULT" />
+        </Item>
+        <Item key="GADGET_NIGHTVISION">
+          <MotionClipSetHash></MotionClipSetHash>
+          <WeaponSwapClipSetHash>weapons@holster_fat_2h</WeaponSwapClipSetHash>
+          <AnimFireRateModifier value="1.000000" />
+          <AnimBlindFireRateModifier value="1.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="false" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="SWAP_DEFAULT" />
+        </Item>
+        <Item key="GADGET_PARACHUTE">
+          <MotionClipSetHash></MotionClipSetHash>
+          <WeaponSwapClipSetHash>weapons@holster_fat_2h</WeaponSwapClipSetHash>
+          <AnimFireRateModifier value="1.000000" />
+          <AnimBlindFireRateModifier value="1.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="false" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="SWAP_DEFAULT" />
+        </Item>
+      </WeaponAnimations>
+    </Item>
+  </WeaponAnimationsSets>
+</CWeaponAnimationsSets>

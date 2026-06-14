@@ -1,0 +1,298 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CWeaponAnimationsSets>
+  <WeaponAnimationsSets>
+    <Item key="npctype_m_ped_two">
+      <Fallback>Default</Fallback>
+      <WeaponAnimations>
+        <Item key="WEAPON_KNIFE">
+          <MotionClipSetHash>weapons@melee_1h</MotionClipSetHash>
+          <MotionFilterHash>BothArms_filter</MotionFilterHash>
+          <MotionStrafingClipSetHash>move_strafe_melee_unarmed</MotionStrafingClipSetHash>
+          <MotionStrafingStealthClipSetHash>move_ped_strafing_stealth</MotionStrafingStealthClipSetHash>
+          <MotionStrafingUpperBodyClipSetHash>move_strafe@knife</MotionStrafingUpperBodyClipSetHash>
+          <WeaponClipSetHash>melee@holster</WeaponClipSetHash>
+          <SwapWeaponFilterHash>RightArm_NoSpine_filter</SwapWeaponFilterHash>
+          <SwapWeaponInLowCoverFilterHash>RightArm_NoSpine_filter</SwapWeaponInLowCoverFilterHash>
+          <AnimFireRateModifier value="0.000000" />
+          <AnimBlindFireRateModifier value="0.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="false" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="SWAP_DEFAULT" />
+        </Item>
+        <Item key="WEAPON_DAGGER">
+          <MotionClipSetHash>weapons@melee_1h</MotionClipSetHash>
+          <MotionFilterHash>BothArms_filter</MotionFilterHash>
+          <MotionStrafingClipSetHash>move_strafe_melee_unarmed</MotionStrafingClipSetHash>
+          <MotionStrafingStealthClipSetHash>move_ped_strafing_stealth</MotionStrafingStealthClipSetHash>
+          <MotionStrafingUpperBodyClipSetHash>move_strafe@knife</MotionStrafingUpperBodyClipSetHash>
+          <WeaponClipSetHash>melee@holster</WeaponClipSetHash>
+          <SwapWeaponFilterHash>RightArm_NoSpine_filter</SwapWeaponFilterHash>
+          <SwapWeaponInLowCoverFilterHash>RightArm_NoSpine_filter</SwapWeaponInLowCoverFilterHash>
+          <AnimFireRateModifier value="0.000000" />
+          <AnimBlindFireRateModifier value="0.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="false" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="SWAP_DEFAULT" />
+        </Item>
+        <Item key="WEAPON_SWITCHBLADE">
+          <MotionClipSetHash>weapons@melee_1h</MotionClipSetHash>
+          <MotionFilterHash>BothArms_filter</MotionFilterHash>
+          <MotionStrafingClipSetHash>move_strafe_melee_unarmed</MotionStrafingClipSetHash>
+          <MotionStrafingStealthClipSetHash>move_ped_strafing_stealth</MotionStrafingStealthClipSetHash>
+          <MotionStrafingUpperBodyClipSetHash>move_strafe@knife</MotionStrafingUpperBodyClipSetHash>
+          <WeaponClipSetHash>melee@holster</WeaponClipSetHash>
+          <SwapWeaponFilterHash>RightArm_NoSpine_filter</SwapWeaponFilterHash>
+          <SwapWeaponInLowCoverFilterHash>RightArm_NoSpine_filter</SwapWeaponInLowCoverFilterHash>
+          <AnimFireRateModifier value="0.000000" />
+          <AnimBlindFireRateModifier value="0.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="false" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="SWAP_DEFAULT" />
+        </Item>
+        <Item key="WEAPON_CROWBAR">
+          <MotionClipSetHash>weapons@melee_1h</MotionClipSetHash>
+          <MotionFilterHash>BothArms_filter</MotionFilterHash>
+          <MotionStrafingClipSetHash>move_strafe_melee_unarmed</MotionStrafingClipSetHash>
+          <MotionStrafingStealthClipSetHash>move_ped_strafing_stealth</MotionStrafingStealthClipSetHash>
+          <MotionStrafingUpperBodyClipSetHash>move_strafe@melee_small_weapon</MotionStrafingUpperBodyClipSetHash>
+          <WeaponClipSetHash>melee@holster</WeaponClipSetHash>
+          <SwapWeaponFilterHash>RightArm_NoSpine_filter</SwapWeaponFilterHash>
+          <SwapWeaponInLowCoverFilterHash>RightArm_NoSpine_filter</SwapWeaponInLowCoverFilterHash>
+          <AnimFireRateModifier value="0.000000" />
+          <AnimBlindFireRateModifier value="0.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="false" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="SWAP_DEFAULT" />
+        </Item>
+        <Item key="WEAPON_HAMMER">
+          <MotionClipSetHash>weapons@melee_1h</MotionClipSetHash>
+          <MotionFilterHash>BothArms_filter</MotionFilterHash>
+          <MotionStrafingClipSetHash>move_strafe_melee_unarmed</MotionStrafingClipSetHash>
+          <MotionStrafingStealthClipSetHash>move_ped_strafing_stealth</MotionStrafingStealthClipSetHash>
+          <MotionStrafingUpperBodyClipSetHash>move_strafe@melee_small_weapon</MotionStrafingUpperBodyClipSetHash>
+          <WeaponClipSetHash>melee@holster</WeaponClipSetHash>
+          <SwapWeaponFilterHash>RightArm_NoSpine_filter</SwapWeaponFilterHash>
+          <SwapWeaponInLowCoverFilterHash>RightArm_NoSpine_filter</SwapWeaponInLowCoverFilterHash>
+          <AnimFireRateModifier value="0.000000" />
+          <AnimBlindFireRateModifier value="0.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="false" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="SWAP_DEFAULT" />
+        </Item>
+        <Item key="WEAPON_BOTTLE">
+          <MotionClipSetHash>weapons@melee_1h</MotionClipSetHash>
+          <MotionFilterHash>BothArms_filter</MotionFilterHash>
+          <MotionStrafingClipSetHash>move_strafe_melee_unarmed</MotionStrafingClipSetHash>
+          <MotionStrafingStealthClipSetHash>move_ped_strafing_stealth</MotionStrafingStealthClipSetHash>
+          <MotionStrafingUpperBodyClipSetHash>move_strafe@melee_small_weapon</MotionStrafingUpperBodyClipSetHash>
+          <WeaponClipSetHash>melee@holster</WeaponClipSetHash>
+          <SwapWeaponFilterHash>RightArm_NoSpine_filter</SwapWeaponFilterHash>
+          <SwapWeaponInLowCoverFilterHash>RightArm_NoSpine_filter</SwapWeaponInLowCoverFilterHash>
+          <AnimFireRateModifier value="0.000000" />
+          <AnimBlindFireRateModifier value="0.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="false" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="SWAP_DEFAULT" />
+        </Item>
+        <Item key="WEAPON_FLASHLIGHT">
+          <MotionClipSetHash>weapons@melee_1h</MotionClipSetHash>
+          <MotionFilterHash>BothArms_filter</MotionFilterHash>
+          <MotionStrafingClipSetHash>move_strafe_melee_unarmed</MotionStrafingClipSetHash>
+          <MotionStrafingStealthClipSetHash>move_ped_strafing_stealth</MotionStrafingStealthClipSetHash>
+          <MotionStrafingUpperBodyClipSetHash>move_strafe@melee_small_weapon</MotionStrafingUpperBodyClipSetHash>
+          <WeaponClipSetHash>melee@holster</WeaponClipSetHash>
+          <SwapWeaponFilterHash>RightArm_NoSpine_filter</SwapWeaponFilterHash>
+          <SwapWeaponInLowCoverFilterHash>RightArm_NoSpine_filter</SwapWeaponInLowCoverFilterHash>
+          <AnimFireRateModifier value="0.000000" />
+          <AnimBlindFireRateModifier value="0.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="false" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="SWAP_DEFAULT" />
+        </Item>
+        <Item key="WEAPON_WRENCH">
+          <MotionClipSetHash>weapons@melee_1h</MotionClipSetHash>
+          <MotionFilterHash>BothArms_filter</MotionFilterHash>
+          <MotionStrafingClipSetHash>move_strafe_melee_unarmed</MotionStrafingClipSetHash>
+          <MotionStrafingStealthClipSetHash>move_ped_strafing_stealth</MotionStrafingStealthClipSetHash>
+          <MotionStrafingUpperBodyClipSetHash>move_strafe@melee_small_weapon</MotionStrafingUpperBodyClipSetHash>
+          <WeaponClipSetHash>melee@holster</WeaponClipSetHash>
+          <SwapWeaponFilterHash>RightArm_NoSpine_filter</SwapWeaponFilterHash>
+          <SwapWeaponInLowCoverFilterHash>RightArm_NoSpine_filter</SwapWeaponInLowCoverFilterHash>
+          <AnimFireRateModifier value="0.000000" />
+          <AnimBlindFireRateModifier value="0.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="false" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="SWAP_DEFAULT" />
+        </Item>
+        <Item key="WEAPON_HATCHET">
+          <MotionClipSetHash>weapons@melee_1h</MotionClipSetHash>
+          <MotionFilterHash>BothArms_filter</MotionFilterHash>
+          <MotionStrafingClipSetHash>move_strafe_melee_unarmed</MotionStrafingClipSetHash>
+          <MotionStrafingStealthClipSetHash>move_ped_strafing_stealth</MotionStrafingStealthClipSetHash>
+          <MotionStrafingUpperBodyClipSetHash>move_strafe@melee_small_weapon</MotionStrafingUpperBodyClipSetHash>
+          <WeaponClipSetHash>melee@holster</WeaponClipSetHash>
+          <SwapWeaponFilterHash>RightArm_NoSpine_filter</SwapWeaponFilterHash>
+          <SwapWeaponInLowCoverFilterHash>RightArm_NoSpine_filter</SwapWeaponInLowCoverFilterHash>
+          <AnimFireRateModifier value="0.000000" />
+          <AnimBlindFireRateModifier value="0.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="false" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="SWAP_DEFAULT" />
+        </Item>
+        <Item key="WEAPON_STONE_HATCHET">
+          <MotionClipSetHash>weapons@melee_1h</MotionClipSetHash>
+          <MotionFilterHash>BothArms_filter</MotionFilterHash>
+          <MotionStrafingClipSetHash>move_strafe_melee_unarmed</MotionStrafingClipSetHash>
+          <MotionStrafingStealthClipSetHash>move_ped_strafing_stealth</MotionStrafingStealthClipSetHash>
+          <MotionStrafingUpperBodyClipSetHash>move_strafe@melee_small_weapon</MotionStrafingUpperBodyClipSetHash>
+          <WeaponClipSetHash>melee@holster</WeaponClipSetHash>
+          <SwapWeaponFilterHash>RightArm_NoSpine_filter</SwapWeaponFilterHash>
+          <SwapWeaponInLowCoverFilterHash>RightArm_NoSpine_filter</SwapWeaponInLowCoverFilterHash>
+          <AnimFireRateModifier value="0.000000" />
+          <AnimBlindFireRateModifier value="0.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="false" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="SWAP_DEFAULT" />
+        </Item>
+        <Item key="WEAPON_KNUCKLE">
+          <MotionClipSetHash>weapons@melee_1h</MotionClipSetHash>
+          <MotionFilterHash>BothArms_filter</MotionFilterHash>
+          <MotionStrafingClipSetHash>move_strafe_melee_unarmed</MotionStrafingClipSetHash>
+          <MotionStrafingStealthClipSetHash>move_ped_strafing_stealth</MotionStrafingStealthClipSetHash>
+          <MotionStrafingUpperBodyClipSetHash>move_strafe@melee_small_weapon</MotionStrafingUpperBodyClipSetHash>
+          <WeaponClipSetHash>melee@holster</WeaponClipSetHash>
+          <SwapWeaponFilterHash>RightArm_NoSpine_filter</SwapWeaponFilterHash>
+          <SwapWeaponInLowCoverFilterHash>RightArm_NoSpine_filter</SwapWeaponInLowCoverFilterHash>
+          <AnimFireRateModifier value="0.000000" />
+          <AnimBlindFireRateModifier value="0.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="false" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="SWAP_DEFAULT" />
+        </Item>
+        <Item key="WEAPON_MACHETE">
+          <MotionClipSetHash>weapons@melee_1h</MotionClipSetHash>
+          <MotionFilterHash>BothArms_filter</MotionFilterHash>
+          <MotionStrafingClipSetHash>move_strafe_melee_unarmed</MotionStrafingClipSetHash>
+          <MotionStrafingStealthClipSetHash>move_ped_strafing_stealth</MotionStrafingStealthClipSetHash>
+          <MotionStrafingUpperBodyClipSetHash>move_strafe@melee_small_weapon</MotionStrafingUpperBodyClipSetHash>
+          <WeaponClipSetHash>melee@holster</WeaponClipSetHash>
+          <SwapWeaponFilterHash>RightArm_NoSpine_filter</SwapWeaponFilterHash>
+          <SwapWeaponInLowCoverFilterHash>RightArm_NoSpine_filter</SwapWeaponInLowCoverFilterHash>
+          <AnimFireRateModifier value="0.000000" />
+          <AnimBlindFireRateModifier value="0.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="false" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="SWAP_DEFAULT" />
+        </Item>
+        <Item key="WEAPON_PIPEWRENCH">
+          <MotionClipSetHash>weapons@melee_1h</MotionClipSetHash>
+          <MotionFilterHash>BothArms_filter</MotionFilterHash>
+          <MotionStrafingClipSetHash>move_strafe_melee_unarmed</MotionStrafingClipSetHash>
+          <MotionStrafingStealthClipSetHash>move_ped_strafing_stealth</MotionStrafingStealthClipSetHash>
+          <MotionStrafingUpperBodyClipSetHash>move_strafe@melee_small_weapon</MotionStrafingUpperBodyClipSetHash>
+          <WeaponClipSetHash>melee@holster</WeaponClipSetHash>
+          <SwapWeaponFilterHash>RightArm_NoSpine_filter</SwapWeaponFilterHash>
+          <SwapWeaponInLowCoverFilterHash>RightArm_NoSpine_filter</SwapWeaponInLowCoverFilterHash>
+          <AnimFireRateModifier value="0.000000" />
+          <AnimBlindFireRateModifier value="0.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="false" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="SWAP_DEFAULT" />
+        </Item>
+        <Item key="WEAPON_BATTLEAXE">
+          <MotionClipSetHash>weapons@melee_1h</MotionClipSetHash>
+          <MotionFilterHash>BothArms_filter</MotionFilterHash>
+          <MotionStrafingClipSetHash>move_strafe_melee_unarmed</MotionStrafingClipSetHash>
+          <MotionStrafingStealthClipSetHash>move_ped_strafing_stealth</MotionStrafingStealthClipSetHash>
+          <MotionStrafingUpperBodyClipSetHash>move_strafe@melee_small_weapon</MotionStrafingUpperBodyClipSetHash>
+          <WeaponClipSetHash>melee@holster</WeaponClipSetHash>
+          <SwapWeaponFilterHash>RightArm_NoSpine_filter</SwapWeaponFilterHash>
+          <SwapWeaponInLowCoverFilterHash>RightArm_NoSpine_filter</SwapWeaponInLowCoverFilterHash>
+          <AnimFireRateModifier value="0.000000" />
+          <AnimBlindFireRateModifier value="0.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="false" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="SWAP_DEFAULT" />
+        </Item>
+        <Item key="WEAPON_BAT">
+          <MotionClipSetHash>weapons@melee_2h</MotionClipSetHash>
+          <MotionFilterHash>BothArms_filter</MotionFilterHash>
+          <MotionStrafingClipSetHash>move_strafe_melee_unarmed</MotionStrafingClipSetHash>
+          <MotionStrafingStealthClipSetHash>move_ped_strafing_stealth</MotionStrafingStealthClipSetHash>
+          <MotionStrafingUpperBodyClipSetHash>move_strafe@melee_large_weapon</MotionStrafingUpperBodyClipSetHash>
+          <WeaponClipSetHash>melee@holster</WeaponClipSetHash>
+          <SwapWeaponFilterHash>RightArm_NoSpine_filter</SwapWeaponFilterHash>
+          <SwapWeaponInLowCoverFilterHash>RightArm_NoSpine_filter</SwapWeaponInLowCoverFilterHash>
+          <AnimFireRateModifier value="0.000000" />
+          <AnimBlindFireRateModifier value="0.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="false" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="SWAP_DEFAULT" />
+        </Item>
+        <Item key="WEAPON_NIGHTSTICK">
+          <MotionClipSetHash>weapons@melee_2h</MotionClipSetHash>
+          <MotionFilterHash>BothArms_filter</MotionFilterHash>
+          <MotionStrafingClipSetHash>move_strafe_melee_unarmed</MotionStrafingClipSetHash>
+          <MotionStrafingStealthClipSetHash>move_ped_strafing_stealth</MotionStrafingStealthClipSetHash>
+          <MotionStrafingUpperBodyClipSetHash>move_strafe@melee_large_weapon</MotionStrafingUpperBodyClipSetHash>
+          <WeaponClipSetHash>melee@holster</WeaponClipSetHash>
+          <SwapWeaponFilterHash>RightArm_NoSpine_filter</SwapWeaponFilterHash>
+          <SwapWeaponInLowCoverFilterHash>RightArm_NoSpine_filter</SwapWeaponInLowCoverFilterHash>
+          <AnimFireRateModifier value="0.000000" />
+          <AnimBlindFireRateModifier value="0.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="false" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="SWAP_DEFAULT" />
+        </Item>
+        <Item key="WEAPON_POOLCUE">
+          <MotionClipSetHash>weapons@melee_2h</MotionClipSetHash>
+          <MotionFilterHash>BothArms_filter</MotionFilterHash>
+          <MotionStrafingClipSetHash>move_strafe_melee_unarmed</MotionStrafingClipSetHash>
+          <MotionStrafingStealthClipSetHash>move_ped_strafing_stealth</MotionStrafingStealthClipSetHash>
+          <MotionStrafingUpperBodyClipSetHash>move_strafe@melee_large_weapon</MotionStrafingUpperBodyClipSetHash>
+          <WeaponClipSetHash>melee@holster</WeaponClipSetHash>
+          <SwapWeaponFilterHash>RightArm_NoSpine_filter</SwapWeaponFilterHash>
+          <SwapWeaponInLowCoverFilterHash>RightArm_NoSpine_filter</SwapWeaponInLowCoverFilterHash>
+          <AnimFireRateModifier value="0.000000" />
+          <AnimBlindFireRateModifier value="0.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="false" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="SWAP_DEFAULT" />
+        </Item>
+        <Item key="WEAPON_GOLFCLUB">
+          <MotionClipSetHash>weapons@melee_2h@golfclub</MotionClipSetHash>
+          <MotionFilterHash>BothArms_filter</MotionFilterHash>
+          <MotionStrafingClipSetHash>move_strafe_melee_unarmed</MotionStrafingClipSetHash>
+          <MotionStrafingStealthClipSetHash>move_ped_strafing_stealth</MotionStrafingStealthClipSetHash>
+          <MotionStrafingUpperBodyClipSetHash>move_strafe@melee_large_weapon</MotionStrafingUpperBodyClipSetHash>
+          <WeaponClipSetHash>melee@holster</WeaponClipSetHash>
+          <SwapWeaponFilterHash>RightArm_NoSpine_filter</SwapWeaponFilterHash>
+          <SwapWeaponInLowCoverFilterHash>RightArm_NoSpine_filter</SwapWeaponInLowCoverFilterHash>
+          <AnimFireRateModifier value="0.000000" />
+          <AnimBlindFireRateModifier value="0.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="false" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="SWAP_DEFAULT" />
+        </Item>
+      </WeaponAnimations>
+    </Item>
+  </WeaponAnimationsSets>
+</CWeaponAnimationsSets>
